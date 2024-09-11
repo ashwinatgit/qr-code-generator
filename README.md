@@ -1,4 +1,4 @@
-# QR Code Generator by Ashwin Reddy
+# QR Code Generator created by Ashwin Reddy
  --> Thank you for Visiting my Git Hub Page This is My First Project <br />
 --> QR Generator desktop app Created by me <br />
 --> Please Download and use qr_generator_ui.exe for generating your QR codes in your windows machine <br />
