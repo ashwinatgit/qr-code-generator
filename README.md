@@ -9,7 +9,7 @@ If you Like my work please support me for my future Projects and share me you re
 <br />
 <a href="https://buymeacoffee.com/ashwinreddy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a><br />
 <br />
-Let Connect on my
+Lets Connect on my
 <div id="badges">
   <a href="https://www.linkedin.com/in/ashwin-reddy143/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
